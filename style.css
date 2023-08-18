@@ -1,0 +1,18 @@
+.container{
+    width: 1440px;
+    height: 576px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.animated-button{
+    display: inline-flex;
+    padding: 12px 28px;
+    align-items: center;
+    gap: 10px;
+    border-radius: 33px;
+    background: #21B573;
+}
+.firstImg{
+    width: 10%;
+    object-fit: cover;
+}
